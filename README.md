@@ -55,11 +55,4 @@ T-SQL (ETL scripts & queries)
 
 Data Warehouse concepts: Bronze, Silver, Gold layers
 
-Data modeling: Star Schema, ERD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> c634a63 (upload project)
-=======
->>>>>>> 51063b3fab9e11aeb0b06e493b7207268fa6991d
